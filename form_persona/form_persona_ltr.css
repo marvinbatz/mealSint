@@ -1,0 +1,54 @@
+.css_foto_label { }
+.css_foto_line { }
+.css_foto_obj { }
+.css_nombre_label { }
+.css_nombre_line { }
+.css_nombre_obj { }
+.css_idtipodedocumento_label { }
+.css_idtipodedocumento_line {text-align:left;}
+.css_idtipodedocumento_obj {text-align:left;}
+.css_noidentificacion_label { }
+.css_noidentificacion_line { }
+.css_noidentificacion_obj { }
+.css_idgenero_label { }
+.css_idgenero_line {text-align:left;}
+.css_idgenero_obj {text-align:left;}
+.css_idetnia_label { }
+.css_idetnia_line {text-align:left;}
+.css_idetnia_obj {text-align:left;}
+.css_fechadenacimiento_label { }
+.css_fechadenacimiento_line { }
+.css_fechadenacimiento_obj { }
+.css_idestadocivil_label { }
+.css_idestadocivil_line {text-align:left;}
+.css_idestadocivil_obj {text-align:left;}
+.css_iddepartamento_label { }
+.css_iddepartamento_line {text-align:left;}
+.css_iddepartamento_obj {text-align:left;}
+.css_idmunicipio_label { }
+.css_idmunicipio_line {text-align:left;}
+.css_idmunicipio_obj {text-align:left;}
+.css_idcomunidad_label { }
+.css_idcomunidad_line {text-align:left;}
+.css_idcomunidad_obj {text-align:left;}
+.css_direccion_label { }
+.css_direccion_line { }
+.css_direccion_obj { }
+.css_email_label { }
+.css_email_line { }
+.css_email_obj { }
+.css_telefono_label { }
+.css_telefono_line { }
+.css_telefono_obj { }
+.css_idlgbt_label { }
+.css_idlgbt_line {text-align:left;}
+.css_idlgbt_obj {text-align:left;}
+.css_cargo_label { }
+.css_cargo_line { }
+.css_cargo_obj { }
+.css_institucion_label { }
+.css_institucion_line { }
+.css_institucion_obj { }
+.css_id_ref_externa_label { }
+.css_id_ref_externa_line { }
+.css_id_ref_externa_obj { }

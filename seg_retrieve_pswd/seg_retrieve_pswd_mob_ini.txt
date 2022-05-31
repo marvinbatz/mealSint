@@ -1,0 +1,7 @@
+seg_retrieve_pswd_mob.php
+MealSint2
+seg_retrieve_pswd_mob
+NAO
+contr
+seg_retrieve_pswd
+LigMd5

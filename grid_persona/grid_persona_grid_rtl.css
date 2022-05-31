@@ -1,0 +1,50 @@
+.css_td_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_td_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_qrcode_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_qrcode_grid_line {vertical-align: middle;text-align: right;}
+.css_p_foto_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_foto_grid_line {color:#000000;vertical-align: top;text-align: right;}
+.css_p_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_g_genero_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_g_genero_grid_line {vertical-align: top;text-align: right;}
+.css_e_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_e_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_p_noidentificacion_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_noidentificacion_grid_line {vertical-align: top;text-align: right;}
+.css_p_fechadenacimiento_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_fechadenacimiento_grid_line {vertical-align: top;text-align: right;}
+.css_anios_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_anios_grid_line {vertical-align: top;text-align: right;}
+.css_meses_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_meses_grid_line {vertical-align: top;text-align: right;}
+.css_getario_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_getario_grid_line {vertical-align: top;text-align: right;}
+.css_ec_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_ec_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_l_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_l_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_p_iddepartamento_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_iddepartamento_grid_line {vertical-align: top;text-align: right;}
+.css_p_idmunicipio_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_idmunicipio_grid_line {vertical-align: top;text-align: right;}
+.css_c_nombre_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_c_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_p_direccion_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_direccion_grid_line {vertical-align: top;text-align: right;}
+.css_p_email_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_email_grid_line {vertical-align: top;text-align: right;}
+.css_p_telefono_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_telefono_grid_line {vertical-align: top;text-align: right;}
+.css_p_cargo_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_cargo_grid_line {vertical-align: top;text-align: right;}
+.css_p_institucion_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_institucion_grid_line {vertical-align: top;text-align: right;}
+.css_p_id_ref_externa_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_id_ref_externa_grid_line {vertical-align: top;text-align: right;}
+.css_codbar_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_codbar_grid_line {text-align: right;}
+.css_carnet_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_carnet_grid_line {text-align: right;}
+.css_p_idpersona_label {vertical-align:middle; font-weight:bold;text-align:left;}
+.css_p_idpersona_grid_line {vertical-align: top;text-align: right;}
